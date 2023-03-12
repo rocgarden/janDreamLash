@@ -1,20 +1,18 @@
 {
   "files": {
     "main.css": "/jandreamlash/static/css/main.073c9b0a.css",
-    "main.js": "/jandreamlash/static/js/main.b7e8cb81.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/jandreamlash/static/js/787.c4e7f8f9.chunk.js",
+    "main.js": "/jandreamlash/static/js/main.61179858.js",
     "static/media/lashKit.jpg": "/jandreamlash/static/media/lashKit.897b9271d2af812b5074.jpg",
     "static/media/lashFace.jpg": "/jandreamlash/static/media/lashFace.48c2391756cd81d5fb6a.jpg",
     "static/media/ArtemisLash.jpg": "/jandreamlash/static/media/ArtemisLash.4ba88f4093fa9225c264.jpg",
     "static/media/beforeLash.jpg": "/jandreamlash/static/media/beforeLash.e04ab642264ff8397885.jpg",
-    "static/media/logo.svg": "/jandreamlash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/lashes.jpg": "/jandreamlash/static/media/lashes.78f49b29464a275cc589.jpg",
     "index.html": "/jandreamlash/index.html",
     "main.073c9b0a.css.map": "/jandreamlash/static/css/main.073c9b0a.css.map",
-    "main.b7e8cb81.js.map": "/jandreamlash/static/js/main.b7e8cb81.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/jandreamlash/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.61179858.js.map": "/jandreamlash/static/js/main.61179858.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b7e8cb81.js"
+    "static/js/main.61179858.js"
   ]
 }
